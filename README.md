@@ -15,3 +15,10 @@
 <a href="https://wa.me/5541992622075" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 </a>
+
+a {
+  text-decoration: none;
+}
+a img {
+  border: 0;
+}
